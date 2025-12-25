@@ -334,36 +334,6 @@ For any questions about this project:
 
 This project is completed in an educational context.
 
----
-
-## ✅ Project Checklist
-
-Before submitting your project, verify:
-
-- [ ] Code runs without errors
-- [ ] Figure `project1_results.png` is generated
-- [ ] Three images (original, equalized, CLAHE) are visible
-- [ ] Three histograms are displayed
-- [ ] Cumulative histogram is plotted
-- [ ] Dynamic range graph is present
-- [ ] 8-10 line analysis is written
-- [ ] PDF report is complete
-- [ ] Dynamic range calculations are correct
-- [ ] Code comments are clear
-
----
-
-## 🎯 Evaluation Criteria
-
-| Criterion | Points | Details |
-|---------|--------|---------|
-| Functional code | 30% | Runs without errors |
-| Manual histogram | 15% | Correct implementation |
-| Visualizations | 25% | Quality of figures |
-| Analysis | 20% | Relevance of interpretation |
-| Report | 10% | Clarity and structure |
-
-**Total: 100%**
 
 ---
 
@@ -389,6 +359,5 @@ To go further:
 
 ---
 
-**Good luck with your project! 🎓📸**
 
 *Last updated: December 2025*
